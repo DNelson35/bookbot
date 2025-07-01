@@ -58,4 +58,4 @@ python main.py
 
 * Only alphabetical characters are counted (a-z), and they are normalized to lowercase.
 * You can modify the `book` variable in `main()` to analyze any other `.txt` file.
-
+-# BookBot is my first [Boot.dev](https://www.boot.dev) project!
